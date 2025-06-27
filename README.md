@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Shreyas-FullStackDeveloper-blueviolet?style=for-the-badge&logo=github" />
-</p>
+![Shreyas](https://img.shields.io/badge/Shreyas-Full_Stack_Developer-blueviolet?style=for-the-badge&logo=github&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+%F0%9F%A6%86+Developer;React+%F0%9F%9A%80+Engineer;MERN+Stack+Explorer;Passionate+about+Tech&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" />
