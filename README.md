@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Shreyas 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shreyas-FullStackDeveloper-blueviolet?style=for-the-badge&logo=github" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+%F0%9F%A6%86+Developer;React+%F0%9F%9A%80+Engineer;MERN+Stack+Explorer;Passionate+about+Tech&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" />
